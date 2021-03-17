@@ -6,7 +6,7 @@ describe('reducer', () => {
     expect(reducer(undefined, [])).toEqual([])
   })
 
-  it('deberia agregar un producto al carrito cuando action type es "addCart"', () => {
+  it('deberia agregar un producto al carrito cuando action type es "ADD_CART"', () => {
     const payload = {
       id: 1,
     }
