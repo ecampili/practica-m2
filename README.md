@@ -6,5 +6,5 @@ Vas a tener que ir leyendo cada archivo de test por componente y la descripcion 
 ## Para configurar la aplicación:
 
 `npm install`
-`npm install` (vista en puerto 3000)
-`npm install` (para correr los test)
+`npm start` (vista en puerto 3000)
+`npm test` (para correr los test)
